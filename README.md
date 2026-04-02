@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Ender%20Kengeri&fontSize=90)
-
-# Ender Kengeri
 > he/they
 
 - **University:** Northeastern University
